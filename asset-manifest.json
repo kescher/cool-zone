@@ -1,7 +1,7 @@
 {
   "main.css": "/cool-zone/static/css/main.c1dd56ab.chunk.css",
-  "main.js": "/cool-zone/static/js/main.5d4c7748.chunk.js",
-  "main.js.map": "/cool-zone/static/js/main.5d4c7748.chunk.js.map",
+  "main.js": "/cool-zone/static/js/main.156c2f66.chunk.js",
+  "main.js.map": "/cool-zone/static/js/main.156c2f66.chunk.js.map",
   "static/css/1.c11eee10.chunk.css": "/cool-zone/static/css/1.c11eee10.chunk.css",
   "static/js/1.23034fd9.chunk.js": "/cool-zone/static/js/1.23034fd9.chunk.js",
   "static/js/1.23034fd9.chunk.js.map": "/cool-zone/static/js/1.23034fd9.chunk.js.map",
@@ -12,6 +12,6 @@
   "static/media/me.jpg": "/cool-zone/static/media/me.4db2dc96.jpg",
   "static/css/main.c1dd56ab.chunk.css.map": "/cool-zone/static/css/main.c1dd56ab.chunk.css.map",
   "index.html": "/cool-zone/index.html",
-  "precache-manifest.40427f9e58c09d44fefaa4de0ed62a23.js": "/cool-zone/precache-manifest.40427f9e58c09d44fefaa4de0ed62a23.js",
+  "precache-manifest.08a96db2130fc7466dfe1f8f85a33221.js": "/cool-zone/precache-manifest.08a96db2130fc7466dfe1f8f85a33221.js",
   "service-worker.js": "/cool-zone/service-worker.js"
 }

@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/cool-zone/static/js/runtime~main.a2ff4ecd.js"
   },
   {
-    "revision": "5d4c774875719621e0d6",
-    "url": "/cool-zone/static/js/main.5d4c7748.chunk.js"
+    "revision": "156c2f66bbd979ec8ab5",
+    "url": "/cool-zone/static/js/main.156c2f66.chunk.js"
   },
   {
     "revision": "23034fd9663c12d03fb9",
     "url": "/cool-zone/static/js/1.23034fd9.chunk.js"
   },
   {
-    "revision": "5d4c774875719621e0d6",
+    "revision": "156c2f66bbd979ec8ab5",
     "url": "/cool-zone/static/css/main.c1dd56ab.chunk.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/cool-zone/static/css/1.c11eee10.chunk.css"
   },
   {
-    "revision": "2ddaf3cc8a3a0e278f161dc85f04c0ea",
+    "revision": "18f174d45f8427d9e4ff59a937236024",
     "url": "/cool-zone/index.html"
   }
 ];
