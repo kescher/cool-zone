@@ -1,7 +1,7 @@
 {
   "main.css": "/cool-zone/static/css/main.c1dd56ab.chunk.css",
-  "main.js": "/cool-zone/static/js/main.54e5be8c.chunk.js",
-  "main.js.map": "/cool-zone/static/js/main.54e5be8c.chunk.js.map",
+  "main.js": "/cool-zone/static/js/main.4a9c2a4d.chunk.js",
+  "main.js.map": "/cool-zone/static/js/main.4a9c2a4d.chunk.js.map",
   "static/css/1.c11eee10.chunk.css": "/cool-zone/static/css/1.c11eee10.chunk.css",
   "static/js/1.23034fd9.chunk.js": "/cool-zone/static/js/1.23034fd9.chunk.js",
   "static/js/1.23034fd9.chunk.js.map": "/cool-zone/static/js/1.23034fd9.chunk.js.map",
@@ -12,6 +12,6 @@
   "static/media/me.jpg": "/cool-zone/static/media/me.4db2dc96.jpg",
   "static/css/1.c11eee10.chunk.css.map": "/cool-zone/static/css/1.c11eee10.chunk.css.map",
   "index.html": "/cool-zone/index.html",
-  "precache-manifest.f6c60eb07b9c5fa1ddb0e64c0bbeaa0c.js": "/cool-zone/precache-manifest.f6c60eb07b9c5fa1ddb0e64c0bbeaa0c.js",
+  "precache-manifest.196b52916a399cdb38352365a01f3b17.js": "/cool-zone/precache-manifest.196b52916a399cdb38352365a01f3b17.js",
   "service-worker.js": "/cool-zone/service-worker.js"
 }
