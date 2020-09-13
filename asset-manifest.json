@@ -1,17 +1,9 @@
 {
-  "main.css": "/cool-zone/static/css/main.c1dd56ab.chunk.css",
-  "main.js": "/cool-zone/static/js/main.e1ffde55.chunk.js",
-  "main.js.map": "/cool-zone/static/js/main.e1ffde55.chunk.js.map",
-  "static/css/1.c11eee10.chunk.css": "/cool-zone/static/css/1.c11eee10.chunk.css",
-  "static/js/1.23034fd9.chunk.js": "/cool-zone/static/js/1.23034fd9.chunk.js",
-  "static/js/1.23034fd9.chunk.js.map": "/cool-zone/static/js/1.23034fd9.chunk.js.map",
-  "runtime~main.js": "/cool-zone/static/js/runtime~main.a2ff4ecd.js",
-  "runtime~main.js.map": "/cool-zone/static/js/runtime~main.a2ff4ecd.js.map",
-  "static/css/1.c11eee10.chunk.css.map": "/cool-zone/static/css/1.c11eee10.chunk.css.map",
-  "static/media/mellon_1.jpg": "/cool-zone/static/media/mellon_1.153cb64d.jpg",
-  "static/media/me.jpg": "/cool-zone/static/media/me.4db2dc96.jpg",
-  "static/css/main.c1dd56ab.chunk.css.map": "/cool-zone/static/css/main.c1dd56ab.chunk.css.map",
-  "index.html": "/cool-zone/index.html",
-  "precache-manifest.0f6a20b347acb005601d002595cceea2.js": "/cool-zone/precache-manifest.0f6a20b347acb005601d002595cceea2.js",
-  "service-worker.js": "/cool-zone/service-worker.js"
+  "main.css": "static/css/main.991cc73c.css",
+  "main.css.map": "static/css/main.991cc73c.css.map",
+  "main.js": "static/js/main.a69d1fd0.js",
+  "main.js.map": "static/js/main.a69d1fd0.js.map",
+  "static/media/3392874.pdf": "static/media/3392874.c26bbe69.pdf",
+  "static/media/me.jpg": "static/media/me.4db2dc96.jpg",
+  "static/media/mellon_1.jpg": "static/media/mellon_1.153cb64d.jpg"
 }
