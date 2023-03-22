@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cc86556.css",
-    "main.js": "/static/js/main.fa767ab9.js",
-    "static/media/3392874.pdf": "/static/media/3392874.e6857c4ad1276ef749d8.pdf",
-    "static/media/mellon_1.jpg": "/static/media/mellon_1.e005c2b29a2bf65509a3.jpg",
-    "static/media/me.jpg": "/static/media/me.49758c063c0950ffae65.jpg",
-    "index.html": "/index.html",
-    "main.1cc86556.css.map": "/static/css/main.1cc86556.css.map",
-    "main.fa767ab9.js.map": "/static/js/main.fa767ab9.js.map"
+    "main.css": "/cool-zone/static/css/main.1cc86556.css",
+    "main.js": "/cool-zone/static/js/main.ec325e64.js",
+    "static/media/3392874.pdf": "/cool-zone/static/media/3392874.e6857c4ad1276ef749d8.pdf",
+    "static/media/mellon_1.jpg": "/cool-zone/static/media/mellon_1.e005c2b29a2bf65509a3.jpg",
+    "static/media/me.jpg": "/cool-zone/static/media/me.49758c063c0950ffae65.jpg",
+    "index.html": "/cool-zone/index.html",
+    "main.1cc86556.css.map": "/cool-zone/static/css/main.1cc86556.css.map",
+    "main.ec325e64.js.map": "/cool-zone/static/js/main.ec325e64.js.map"
   },
   "entrypoints": [
     "static/css/main.1cc86556.css",
-    "static/js/main.fa767ab9.js"
+    "static/js/main.ec325e64.js"
   ]
 }
