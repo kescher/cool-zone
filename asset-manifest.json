@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/cool-zone/static/css/main.1cc86556.css",
-    "main.js": "/cool-zone/static/js/main.ec325e64.js",
+    "main.js": "/cool-zone/static/js/main.b163012e.js",
+    "static/media/tith.pdf": "/cool-zone/static/media/tith.5e29c27adfbff5f29122.pdf",
     "static/media/3392874.pdf": "/cool-zone/static/media/3392874.e6857c4ad1276ef749d8.pdf",
     "static/media/mellon_1.jpg": "/cool-zone/static/media/mellon_1.e005c2b29a2bf65509a3.jpg",
     "static/media/me.jpg": "/cool-zone/static/media/me.49758c063c0950ffae65.jpg",
     "index.html": "/cool-zone/index.html",
     "main.1cc86556.css.map": "/cool-zone/static/css/main.1cc86556.css.map",
-    "main.ec325e64.js.map": "/cool-zone/static/js/main.ec325e64.js.map"
+    "main.b163012e.js.map": "/cool-zone/static/js/main.b163012e.js.map"
   },
   "entrypoints": [
     "static/css/main.1cc86556.css",
-    "static/js/main.ec325e64.js"
+    "static/js/main.b163012e.js"
   ]
 }
