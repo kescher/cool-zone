@@ -1,18 +1,21 @@
 {
   "files": {
     "main.css": "/cool-zone/static/css/main.1cc86556.css",
-    "main.js": "/cool-zone/static/js/main.067a6822.js",
+    "main.js": "/cool-zone/static/js/main.bd7ec4dd.js",
+    "static/media/empire.pdf": "/cool-zone/static/media/empire.c2e1f9686758b1312276.pdf",
     "static/media/codeifying.pdf": "/cool-zone/static/media/codeifying.b4c992b2a5498cc0d3da.pdf",
     "static/media/tith.pdf": "/cool-zone/static/media/tith.5e29c27adfbff5f29122.pdf",
+    "static/media/aa.pdf": "/cool-zone/static/media/aa.61833ffee77ddd87c5bc.pdf",
+    "static/media/midas.pdf": "/cool-zone/static/media/midas.91e669492404172b9257.pdf",
     "static/media/3392874.pdf": "/cool-zone/static/media/3392874.e6857c4ad1276ef749d8.pdf",
     "static/media/me.jpg": "/cool-zone/static/media/me.ac8d28d3a17617dda2ba.jpg",
     "static/media/mellon_1.jpg": "/cool-zone/static/media/mellon_1.e005c2b29a2bf65509a3.jpg",
     "index.html": "/cool-zone/index.html",
     "main.1cc86556.css.map": "/cool-zone/static/css/main.1cc86556.css.map",
-    "main.067a6822.js.map": "/cool-zone/static/js/main.067a6822.js.map"
+    "main.bd7ec4dd.js.map": "/cool-zone/static/js/main.bd7ec4dd.js.map"
   },
   "entrypoints": [
     "static/css/main.1cc86556.css",
-    "static/js/main.067a6822.js"
+    "static/js/main.bd7ec4dd.js"
   ]
 }
