@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/cool-zone/static/css/main.1cc86556.css",
-    "main.js": "/cool-zone/static/js/main.bd7ec4dd.js",
+    "main.css": "/cool-zone/static/css/main.26a14b89.css",
+    "main.js": "/cool-zone/static/js/main.fcc6d7e0.js",
     "static/media/empire.pdf": "/cool-zone/static/media/empire.c2e1f9686758b1312276.pdf",
     "static/media/codeifying.pdf": "/cool-zone/static/media/codeifying.b4c992b2a5498cc0d3da.pdf",
+    "static/media/dove_portrait.gif": "/cool-zone/static/media/dove_portrait.dc2b9cc4ef447900c1f3.gif",
     "static/media/tith.pdf": "/cool-zone/static/media/tith.5e29c27adfbff5f29122.pdf",
     "static/media/aa.pdf": "/cool-zone/static/media/aa.61833ffee77ddd87c5bc.pdf",
     "static/media/midas.pdf": "/cool-zone/static/media/midas.91e669492404172b9257.pdf",
     "static/media/3392874.pdf": "/cool-zone/static/media/3392874.e6857c4ad1276ef749d8.pdf",
-    "static/media/me.jpg": "/cool-zone/static/media/me.ac8d28d3a17617dda2ba.jpg",
     "static/media/mellon_1.jpg": "/cool-zone/static/media/mellon_1.e005c2b29a2bf65509a3.jpg",
+    "static/media/aniunicorn.gif": "/cool-zone/static/media/aniunicorn.73688524d603dbb515d4.gif",
+    "static/media/dragon001.gif": "/cool-zone/static/media/dragon001.357d1202dfc9980a3bd0.gif",
+    "static/media/purple_dragon.gif": "/cool-zone/static/media/purple_dragon.ec7eaf1130d503f11c32.gif",
     "index.html": "/cool-zone/index.html",
-    "main.1cc86556.css.map": "/cool-zone/static/css/main.1cc86556.css.map",
-    "main.bd7ec4dd.js.map": "/cool-zone/static/js/main.bd7ec4dd.js.map"
+    "main.26a14b89.css.map": "/cool-zone/static/css/main.26a14b89.css.map",
+    "main.fcc6d7e0.js.map": "/cool-zone/static/js/main.fcc6d7e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cc86556.css",
-    "static/js/main.bd7ec4dd.js"
+    "static/css/main.26a14b89.css",
+    "static/js/main.fcc6d7e0.js"
   ]
 }
